@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="default_name_memc">MEMC Pro</string>
+    <string name="default_desc_memc">MEMC Pro技术，能有效的解决影像运动时产生的各种问题，例如快速移动的高楼抖动、人物跑动时候的残影、光晕，字体移动时候的锯齿、拖尾，运动场上人物和球体的模糊，以及不同的帧频下（24HZ/25HZ等）的兼容性。</string>
+    <string name="default_name_local_dimming">LocalDimming</string>
+    <string name="default_desc_local_dimming">Local dimming 16路分区LED背光源可以根据芯片识别显示画面的明暗效果，智能调节相应分区背光源的电流占空比，使得画面对比效果更加强烈（亮场更亮，暗场更暗）。</string>
+    <string name="default_name_local_contrast">LocalContrast</string>
+    <string name="default_desc_local_contrast">LocalContrast技术，可以将一幅画面分为1296个区块，根据不同区块的亮暗不同，以及周边区块的亮度情况，针对性的进行单独的控制，这种控制的频度和强度都会根据画面不同而实时变化</string>
+    <string name="default_name_gold_eye">纯色硬屏</string>
+    <string name="default_desc_gold_eye">纯色技术是新一代的色彩提升技术，通过光纳米材料吸收背光源杂光，从而提纯背光源色彩。在实现广色域的基础上提升色彩纯度，具有色彩更准、画面更真实的优势。</string>
+    <string name="default_name_hdr">HDR²</string>
+    <string name="default_desc_hdr">在原有HDR功能基础上加入了Local Contrast技术，在图像输出之前，把整屏液晶分子分为1296个区域，适时根据画面需要，精准调节液晶分子的翻转频率和角度，达到再次提高对比度、增强画面细节的效果。</string>
+    <string name="default_name_sdr2hdr">适时HDR</string>
+    <string name="default_desc_sdr2hdr">适时HDR技术可以通过软件调节饱和度和动态亮度补偿，从而实现SDR（非高动态范围图像画质）到HDR画质的转变。观看普通电影，画质更优。</string>
+    <string name="default_name_color_wheel">12bit 色轮引擎</string>
+    <string name="default_desc_color_wheel">12bit色轮引擎，对图片的颜色细节进行12bit色彩处理，使画面色彩达到686亿色彩还原，相比于10bit色彩处理技术，12bit是10bit色彩处理技术64倍，色彩还原更真实自然，就好比同样的IPhone6S拍摄的HDR照片，用美图秀秀修饰的效果更好。</string>
+    <string name="default_name_dnr">适时4K</string>
+    <string name="default_desc_dnr">智能识别信号源的清晰度，无需人工选择。运用三维关联补偿，在帧内插值同时补充帧内插值，信号补充准确，真正实现2K到4K的转化，点对点完美还原。</string>
+    <string name="default_name_eq">HiFi Pro</string>
+    <string name="default_desc_eq">采用HiFi Pro专业音响，经过多个维度营造更具空间感和包围感的环绕声环境，拓宽音场，扩大最佳聆听位置。针对电影、演唱会，话剧等不同场景全音频增强。</string>
+</resources>

@@ -31,9 +31,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
             Log.d("TEST", "module key = " + module.getModuleKey());
             Log.d("TEST", "module name = " + module.getDefaultName());
             Log.d("TEST", "module alias name = " + module.getName(series));
-            Log.d("TEST", "module desc = " + module.getDefaultDesc());
-            Log.d("TEST", "module alias desc = " + module.getDesc(series));
-            Log.d("TEST", "module support = " + module.isSupport());
         }
     }
 

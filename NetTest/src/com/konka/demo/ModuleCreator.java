@@ -65,6 +65,8 @@ public class ModuleCreator {
                 module.setDefaultDesc(defDescId);
                 module.setAliasBean(aliasBeanMap.get(module.getModuleKey()));
                 mModules.add(module);
+				Log.d("TEST", "module name = " + module.getDefaultName());
+				Log.d("TEST", "module alias name = " + module.getName(series));
             } catch (InstantiationException | IllegalAccessException | InvocationTargetException | NoSuchMethodException e) {
                 e.printStackTrace();
             }

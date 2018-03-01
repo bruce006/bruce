@@ -79,6 +79,7 @@ public class ModuleCreator {
     public IDemoModule findDemoModule(String key) {
         for (IDemoModule module : mModules) {
             if (key.toLowerCase().equals(module.getModuleKey().toLowerCase())) {
+				Log.d("TEST", "module alias name = " + module.getName(series));
                 return module;
             }
         }

@@ -30,7 +30,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         for (IDemoModule module : modules) {
             Log.d("TEST", "module key = " + module.getModuleKey());
             Log.d("TEST", "module name = " + module.getDefaultName());
-            Log.d("TEST", "module alias name = " + module.getName(series));
         }
     }
 
